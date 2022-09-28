@@ -59,12 +59,12 @@ function Footer() {
                     <div className="col-lg-3 footer__3">
                         <p>REACH OUT TO US</p>
                         <div>
-                            <img src="/Icons/facebook.svg" alt="social" />
-                            <img src="/Icons/linkedin.svg" alt="social" />
-                            <img src="/Icons/youtube.svg" alt="social" />
-                            <img src="/Icons/instagram.svg" alt="social" />
-                            <img src="/Icons/twitter.svg" alt="social" />
-                            <img src="/Icons/github.svg" alt="social" />
+                            <img src="https://raw.githubusercontent.com/twinkle-toes-happy-feet-bubbles/Cryptosi.CryptoRepair/main/src/assets/icons8-facebook.svg" alt="social FB" />
+                            <img src="https://raw.githubusercontent.com/twinkle-toes-happy-feet-bubbles/Cryptosi.CryptoRepair/main/src/assets/icons8-linkedin.svg" alt="social LinkedIn" />
+                            <img src="https://raw.githubusercontent.com/twinkle-toes-happy-feet-bubbles/Cryptosi.CryptoRepair/main/src/assets/icons8-youtube.svg" alt="social Youtube" />
+                            <img src="https://raw.githubusercontent.com/twinkle-toes-happy-feet-bubbles/Cryptosi.CryptoRepair/main/src/assets/icons8-instagram.svg" alt="social Instagram" />
+                            <img src="https://raw.githubusercontent.com/twinkle-toes-happy-feet-bubbles/Cryptosi.CryptoRepair/main/src/assets/icons8-twitter.svg" alt="social twitter" />
+                            <img src="https://raw.githubusercontent.com/twinkle-toes-happy-feet-bubbles/Cryptosi.CryptoRepair/main/src/assets/icons8-github.svg" alt="social github" />
                         </div>
                     </div>
                 </div>
