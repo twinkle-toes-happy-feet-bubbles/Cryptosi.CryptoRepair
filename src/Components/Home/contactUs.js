@@ -9,7 +9,7 @@ function contactUs() {
                 <p className="conatact__h">Let’s work together</p>
                 <p className="contact__det">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Id integer ut faucibus sem risus. Praesent sagittis, ut diam diam odio faucibus lorem. </p>
                 <div className="contact__en">
-                    <span className="constct_details"><img className="contact__img" src="/Icons/Mail.svg" alt="" />contact@cryptocryptosi.com</span>
+                    <span className="constct_details"><img className="contact__img" src="https://raw.githubusercontent.com/twinkle-toes-happy-feet-bubbles/Cryptosi.CryptoRepair/main/src/assets/Emai%20contact.svg" alt="" />contact@cryptocryptosi.com</span>
                     <span className="constct_details"><img className="contact__img" src="/Icons/Phone.svg" alt="" />+22 2231654789</span>
                 </div>
 
@@ -40,7 +40,7 @@ function contactUs() {
                         <div className="col-md-6">
                             <div className="conarct__card">
                                 <div className="contact__innerdiv">
-                                    <img className="contact__img" src="/Icons/Front End.svg" alt="dev" />
+                                    <img className="contact__img" src="https://raw.githubusercontent.com/twinkle-toes-happy-feet-bubbles/Cryptosi.CryptoRepair/main/src/assets/Front-end%20dev.svg" alt="dev" />
                                     <span className="contact__card__text">Front End Development</span>
                                 </div>
                                 <input type="checkbox" />
@@ -49,7 +49,7 @@ function contactUs() {
                         <div className="col-md-6">
                             <div className="conarct__card">
                                 <div className="contact__innerdiv">
-                                    <img className="contact__img" src="/Icons/Back end.svg" alt="dev" />
+                                    <img className="contact__img" src="https://raw.githubusercontent.com/twinkle-toes-happy-feet-bubbles/Cryptosi.CryptoRepair/main/src/assets/Back%20end%20development.svg" alt="dev" />
                                     <span className="contact__card__text">Back End Development</span>
                                 </div>
                                 <input type="checkbox" />
@@ -58,7 +58,7 @@ function contactUs() {
                         <div className="col-md-6">
                             <div className="conarct__card">
                                 <div className="contact__innerdiv">
-                                    <img className="contact__img" src="/Icons/Bot Development.svg" alt="dev" />
+                                    <img className="contact__img" src="https://raw.githubusercontent.com/twinkle-toes-happy-feet-bubbles/Cryptosi.CryptoRepair/main/src/assets/Bot%20development.svg" alt="dev" />
                                     <span className="contact__card__text">Bot Development</span>
                                 </div>
                                 <input type="checkbox" />
@@ -67,7 +67,7 @@ function contactUs() {
                         <div className="col-md-6">
                             <div className="conarct__card">
                                 <div className="contact__innerdiv">
-                                    <img className="contact__img" src="/Icons/Application Development.svg" alt="dev" />
+                                    <img className="contact__img" src="https://raw.githubusercontent.com/twinkle-toes-happy-feet-bubbles/Cryptosi.CryptoRepair/main/src/assets/App%20development.svg" alt="dev" />
                                     <div className="contact__card__text">Application Development</div>
                                 </div>
                                 <input type="checkbox" />
